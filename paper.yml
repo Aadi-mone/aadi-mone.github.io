@@ -70,7 +70,7 @@ settings:
   async-chunks:
     threads: -1
 messages:
-  no-permission: '&cI''m sorry, but you do not have permission to perform this command.
+  no-permission: '&aI''m sorry, but you do not have permission to perform this command.
     Please contact the server administrators if you believe that this is in error.'
   kick:
     authentication-servers-down: ''
